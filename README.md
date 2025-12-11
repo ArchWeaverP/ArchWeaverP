@@ -40,3 +40,5 @@ I am a **Spatial Computing Developer** with **10+ years of experience in Archite
 ### 👉 [Spatial-Computing-Lab](https://github.com/ArchWeaverP/Spatial-Computing-Lab)
 > **My Main Workspace.** Contains Python scripts for Blender automation, algorithm studies, and logic tests.
 > * 건축 자동화 스크립트와 CS 학습 코드가 저장된 메인 연구실입니다.
+>
+> * Created by Sunah Park (ArchWeaverP)
